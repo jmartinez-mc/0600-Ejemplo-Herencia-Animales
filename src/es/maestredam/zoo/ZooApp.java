@@ -1,5 +1,11 @@
 package es.maestredam.zoo;
 
+/**
+ * Aplicación que crea objetos e invoca a sus métodos.
+ * 
+ * @author josema
+ * @version 1.1
+ */
 public class ZooApp {
 
 	public static void main(String[] args) {
